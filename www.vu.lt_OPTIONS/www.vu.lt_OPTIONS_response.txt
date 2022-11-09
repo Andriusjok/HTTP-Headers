@@ -1,0 +1,1007 @@
+<!DOCTYPE html>
+<html lang="lt-LT" class="lt pageid-21">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+		    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0">
+    <base href="https://www.vu.lt/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Vilniaus universitetas, VU, Vilnius, Lietuva, universitetas, Lietuvos universitetas, Lietuvos universitetai, universitetas Lietuvoje, universitetai Lietuvoje, aukštoji mokykla, aukštasis mokslas, mokslas, studijos, stojimas" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Vilniaus universitetas" />
+	<meta property="og:url" content="https://www.vu.lt/" />
+	<meta property="og:site_name" content="Vilniaus universitetas" />
+	<meta property="og:description" content="Vilniaus universitetas – prestižinė Lietuvos mokslo ir studijų institucija, kurioje vystomas pasaulinio lygio mokslas ir plėtojamos mokslu grindžiamos tarptautinio lygio studijos." />
+	<meta property="og:image" content="https://www.vu.lt/site_images/new_og/logo_lt.png" />
+	<meta name="description" content="Vilniaus universitetas – prestižinė Lietuvos mokslo ir studijų institucija, kurioje vystomas pasaulinio lygio mokslas ir plėtojamos mokslu grindžiamos tarptautinio lygio studijos." />
+	<title>Vilniaus universitetas</title>
+	<link href="/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="https://www.vu.lt/en/" rel="alternate" hreflang="en-GB" />
+	<link href="https://www.vu.lt/" rel="alternate" hreflang="lt-LT" />
+	<link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://www.vu.lt/plugins/system/vugdprstyle/assets/css/gdprstyle.min.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/css/jcemediabox.css?1d12bb5a40100bbd1841bfc0e498ce7b" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/themes/standard/css/style.css?50fba48f56052a048c5cf30829163e4d" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jce/css/content.css?436bdf6aa3c5d76aa9fb0da43580c230" rel="stylesheet" type="text/css" />
+	<link href="/media/system/css/modal.css?436bdf6aa3c5d76aa9fb0da43580c230" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/templates/gk_university/css/k2.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/templates/gk_university/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/templates/gk_university/css/normalize.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/templates/gk_university/css/layout.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/templates/gk_university/css/joomla.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/templates/gk_university/css/system/system.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/templates/gk_university/css/menu/menu.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/templates/gk_university/css/template.css?version=1.7.4" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/templates/gk_university/css/gk.stuff.css?version=1.1.2" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/templates/gk_university/css/style1.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/modules/mod_vucal/assets/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/modules/mod_news_pro_gk5/interface/css/style.css" rel="stylesheet" type="text/css" />
+	<link href="https://www.vu.lt/modules/mod_image_show_gk4/styles/gk_vu_slider/style.css" rel="stylesheet" type="text/css" />
+	<link href="/media/mod_languages/css/template.css?436bdf6aa3c5d76aa9fb0da43580c230" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/gdpr/assets/css/cookieconsent.min.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/gdpr/assets/css/jquery.fancybox.min.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+
+ .cloaked_email span:before { content: attr(data-ep-a); } .cloaked_email span:after { content: attr(data-ep-b); } 
+.childcontent .gkcol { width: 200px; }@media screen and (max-width: 743.25px) {
+    	#k2Container .itemsContainer { width: 100%!important; } 
+    	.cols-2 .column-1,
+    	.cols-2 .column-2,
+    	.cols-3 .column-1,
+    	.cols-3 .column-2,
+    	.cols-3 .column-3,
+    	.demo-typo-col2,
+    	.demo-typo-col3,
+    	.demo-typo-col4 {width: 100%; }
+    	}#gkContent { width: 100%; }
+#gkContentWrap { width: 100%; }
+.gkPage, #gkPageContent + #gkBottom1:before, #gkPageContent + #gkBottom2:before, #gkPageContent + #gkBottom3:before, #gkPageContent + #gkBottom4:before, #gkPageContent + #gkBottom5:before { max-width: 1230px; }
+#menu24 > div,
+#menu24 > div > .childcontent-inner { width: 200px; }
+#menu264 > div,
+#menu264 > div > .childcontent-inner { width: 200px; }
+#menu27 > div,
+#menu27 > div > .childcontent-inner { width: 200px; }
+#menu114 > div,
+#menu114 > div > .childcontent-inner { width: 200px; }
+#menu23 > div,
+#menu23 > div > .childcontent-inner { width: 200px; }
+#menu2013 > div,
+#menu2013 > div > .childcontent-inner { width: 200px; }
+
+		#gkIs-gk-is-1.gkIsWrapper-gk_university {
+			min-height: 633px;
+		}
+		
+		#gkIs-gk-is-1.gkIsWrapper-gk_university .gkIsSlide {
+			background-size: 1920px 633px;
+			height: 633px;
+			max-width: 1920px;
+		}
+		
+		#gkIs-gk-is-1.gkIsWrapper-gk_university figure,
+		#gkIs-gk-is-1.gkIsWrapper-gk_university .gkIsPreloader {
+			max-width: 1920px;
+		}
+		
+		@media (max-width: 1040px) {
+			#gkIs-gk-is-1.gkIsWrapper-gk_university {
+				min-height: 343px;
+			}
+			
+			#gkIs-gk-is-1.gkIsWrapper-gk_university .gkIsSlide {
+				background-size: 1040px 343px;
+				height: 343px;
+				max-width: 1040px;
+			}
+			
+			#gkIs-gk-is-1.gkIsWrapper-gk_university figure,
+			#gkIs-gk-is-1.gkIsWrapper-gk_university .gkIsPreloader {
+				max-width: 1040px;
+			}
+		}
+		
+		@media (max-width: 640px) {
+			#gkIs-gk-is-1.gkIsWrapper-gk_university {
+				min-height: 211px;
+			}
+			
+			#gkIs-gk-is-1.gkIsWrapper-gk_university .gkIsSlide {
+				background-size: 640px 211px;
+				height: 211px;
+				max-width: 640px;
+			}
+			
+			#gkIs-gk-is-1.gkIsWrapper-gk_university figure,
+			#gkIs-gk-is-1.gkIsWrapper-gk_university .gkIsPreloader {
+				max-width: 640px;
+			}
+		}
+		div.cc-window.cc-floating{max-width:32em}@media(max-width: 639px){div.cc-window.cc-floating:not(.cc-center){max-width: none}}div.cc-window, span.cc-cookie-settings-toggler{font-size:16px}div.cc-revoke{font-size:16px}div.cc-settings-label,span.cc-cookie-settings-toggle{font-size:14px}div.cc-window.cc-banner{padding:1em 1.8em}div.cc-window.cc-floating{padding:2em 1.8em}input.cc-cookie-checkbox+span:before, input.cc-cookie-checkbox+span:after{border-radius:1px}a.cc-btn.cc-deny{display:none}a.cc-btn.cc-dismiss{display:none}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"d95f3cfa344e8960cc7b851600700c5e","system.paths":{"root":"","base":""}}</script>
+	<script src="https://www.vu.lt/plugins/system/vugdprstyle/assets/js/gdprscript.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js?436bdf6aa3c5d76aa9fb0da43580c230" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?436bdf6aa3c5d76aa9fb0da43580c230" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?436bdf6aa3c5d76aa9fb0da43580c230" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?436bdf6aa3c5d76aa9fb0da43580c230" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?436bdf6aa3c5d76aa9fb0da43580c230" type="text/javascript"></script>
+	<script src="/plugins/system/jcemediabox/js/jcemediabox.js?0c56fee23edfcb9fbdfe257623c5280e" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?436bdf6aa3c5d76aa9fb0da43580c230" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?436bdf6aa3c5d76aa9fb0da43580c230" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js?436bdf6aa3c5d76aa9fb0da43580c230" type="text/javascript"></script>
+	<script src="https://www.vu.lt/templates/gk_university/js/custom.js?v1.2.1" type="text/javascript"></script>
+	<script src="https://www.vu.lt/templates/gk_university/js/modernizr.js" type="text/javascript"></script>
+	<script src="https://www.vu.lt/templates/gk_university/js/gk.scripts.js?version=1.3.1" type="text/javascript"></script>
+	<script src="https://www.vu.lt/templates/gk_university/js/gk.menu.js" type="text/javascript"></script>
+	<script src="https://www.vu.lt/templates/gk_university/js/fitvids.jquery.js" type="text/javascript"></script>
+	<script src="https://www.vu.lt/modules/mod_vucal/assets/js/jquery-ui.js" type="text/javascript"></script>
+	<script src="https://www.vu.lt/modules/mod_news_pro_gk5/interface/scripts/engine.jquery.js" type="text/javascript"></script>
+	<script src="https://www.vu.lt/modules/mod_image_show_gk4/styles/gk_vu_slider/engine.js" type="text/javascript"></script>
+	<script src="/plugins/system/gdpr/assets/js/jquery.fancybox.min.js" type="text/javascript" defer="defer"></script>
+	<script src="/plugins/system/gdpr/assets/js/cookieconsent.min.js" type="text/javascript" defer="defer"></script>
+	<script src="/plugins/system/gdpr/assets/js/init.js" type="text/javascript" defer="defer"></script>
+	<script type="text/javascript">
+
+ var emailProtector = emailProtector || {}; emailProtector.addCloakedMailto = function(g, l) {  var h = document.querySelectorAll("." + g); for (i = 0; i < h.length; i++) { var b = h[i], k = b.getElementsByTagName("span"), e = "", c = ""; b.className = b.className.replace(" " + g, ""); for (var f = 0; f < k.length; f++){ for (var d = k[f].attributes, a = 0; a < d.length; a++){ var node = d[a].nodeName; if( ( 0 === d[a].nodeName.toLowerCase().indexOf("data-ep-a") ) || (d[a].nodeName.toLowerCase() == "data-ep-a") ) e += d[a].value; if( 0 === d[a].nodeName.toLowerCase().indexOf("data-ep-b")  || (d[a].nodeName.toLowerCase() == "data-ep-b") ) c = d[a].value + c; } }  if (!c) break; b.innerHTML = e + c; if (!l) break;    b.parentNode.href = "mailto:" + e + c } }; 
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			initSqueezeBox();
+			$(document).on('subform-row-add', initSqueezeBox);
+
+			function initSqueezeBox(event, container)
+			{
+				SqueezeBox.assign($(container || document).find('a.modal').get(), {
+					parse: 'rel'
+				});
+			}
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+ $GKMenu = { height:false, width:false, duration: 500 };
+$GK_TMPL_URL = "https://www.vu.lt/templates/gk_university";
+
+$GK_URL = "https://www.vu.lt/";
+var eventsLink="/naujienos/ivykiu-kalendorius";try {$Gavick;}catch(e){$Gavick = {};};$Gavick["gkIs-gk-is-1"] = { "anim_speed": 500, "anim_interval": 5000, "slide_links": 1 };var wUrl="/paieska";var pbUrl="/apiemus/kontaktai-ir-nuorodos/telefonu-knyga";var gdprConfigurationOptions = { complianceType: 'opt-in',
+																			  cookieConsentLifetime: 365,
+																			  cookieConsentSamesitePolicy: '',
+																			  cookieConsentSecure: 0,
+																			  disableFirstReload: 1,
+																	  		  blockJoomlaSessionCookie: 0,
+																			  blockExternalCookiesDomains: 0,
+																			  externalAdvancedBlockingModeCustomAttribute: '',
+																			  allowedCookies: '',
+																			  blockCookieDefine: 0,
+																			  autoAcceptOnNextPage: 0,
+																			  revokable: 0,
+																			  lawByCountry: 0,
+																			  checkboxLawByCountry: 0,
+																			  cacheGeolocationCountry: 1,
+																			  countryAcceptReloadTimeout: 1000,
+																			  usaCCPARegions: null,
+																			  dismissOnScroll: 0,
+																			  dismissOnTimeout: 0,
+																			  containerSelector: 'body',
+																			  hideOnMobileDevices: 0,
+																			  autoFloatingOnMobile: 0,
+																			  autoFloatingOnMobileThreshold: 1024,
+																			  autoRedirectOnDecline: 0,
+																			  autoRedirectOnDeclineLink: '',
+																			  showReloadMsg: 0,
+																			  showReloadMsgText: 'Applying preferences and reloading the page...',
+																			  defaultClosedToolbar: 0,
+																			  toolbarLayout: 'basic',
+																			  toolbarTheme: 'block',
+																			  toolbarButtonsTheme: 'decline_first',
+																			  revocableToolbarTheme: 'basic',
+																			  toolbarPosition: 'bottom',
+																			  toolbarCenterTheme: 'compact',
+																			  revokePosition: 'revoke-top',
+																			  toolbarPositionmentType: 1,
+																			  positionCenterBlurEffect: 1,
+																			  popupEffect: 'fade',
+																			  popupBackground: '#000000',
+																			  popupText: '#ffffff',
+																			  popupLink: '#ffffff',
+																			  buttonBackground: '#ffffff',
+																			  buttonBorder: '#ffffff',
+																			  buttonText: '#000000',
+																			  highlightOpacity: '100',
+																			  highlightBackground: '#333333',
+																			  highlightBorder: '#ffffff',
+																			  highlightText: '#ffffff',
+																			  highlightDismissBackground: '#333333',
+																		  	  highlightDismissBorder: '#ffffff',
+																		 	  highlightDismissText: '#ffffff',
+																			  hideRevokableButton: 0,
+																			  hideRevokableButtonOnscroll: 0,
+																			  customRevokableButton: 2,
+																			  customRevokableButtonAction: 0,
+																			  headerText: 'Cookies used on the website!',
+																			  messageText: 'Siekdami užtikrinti jums teikiamų paslaugų kokybę, Universiteto tinklalapiuose naudojame slapukus. Tęsdami naršymą jūs sutinkate su Vilniaus universiteto slapukų politika.',
+																			  denyMessageEnabled: 0, 
+																			  denyMessage: 'You have declined cookies, to ensure the best experience on this website please consent the cookie usage.',
+																			  placeholderBlockedResources: 0, 
+																			  placeholderBlockedResourcesAction: '',
+																	  		  placeholderBlockedResourcesText: 'You must accept cookies and reload the page to view this content',
+																			  placeholderIndividualBlockedResourcesText: 'You must accept cookies from {domain} and reload the page to view this content',
+																			  placeholderIndividualBlockedResourcesAction: 0,
+																			  placeholderOnpageUnlock: 0,
+																			  dismissText: 'Got it!',
+																			  allowText: 'Patvirtinti tik pažymėtus',
+																			  denyText: 'Decline',
+																			  cookiePolicyLinkText: 'Slapukų politika',
+																			  cookiePolicyLink: 'https://www.vu.lt/privatumo-politika#slapukai',
+																			  cookiePolicyRevocableTabText: 'Slapukų politika',
+																			  privacyPolicyLinkText: 'Privatumo politika',
+																			  privacyPolicyLink: 'https://www.vu.lt/privatumo-politika',
+																			  enableGdprBulkConsent: 0,
+																			  categoriesCheckboxTemplate: 'cc-checkboxes-filled',
+																			  toggleCookieSettings: 0,
+																	  		  toggleCookieSettingsText: '<span class="cc-cookie-settings-toggle">Settings <span class="cc-cookie-settings-toggler">&#x25EE;</span></span>',
+																			  toggleCookieSettingsButtonBackground: '#a1a1a1',
+																			  toggleCookieSettingsButtonBorder: '#ffffff',
+																			  toggleCookieSettingsButtonText: '#ffffff',
+																			  showLinks: 1,
+																			  blankLinks: '_blank',
+																			  autoOpenPrivacyPolicy: 0,
+																			  openAlwaysDeclined: 1,
+																			  cookieSettingsLabel: 'Nustatymai:',
+															  				  cookieSettingsDesc: 'Choose which kind of cookies you want to disable by clicking on the checkboxes. Click on a category name for more informations about used cookies.',
+																			  cookieCategory1Enable: 1,
+																			  cookieCategory1Name: 'Griežtai būtini',
+																			  cookieCategory1Locked: 1,
+																			  cookieCategory2Enable: 1,
+																			  cookieCategory2Name: 'Funkciniai',
+																			  cookieCategory2Locked: 0,
+																			  cookieCategory3Enable: 1,
+																			  cookieCategory3Name: 'Statistiniai',
+																			  cookieCategory3Locked: 0,
+																			  cookieCategory4Enable: 1,
+																			  cookieCategory4Name: 'Rinkodaros',
+																			  cookieCategory4Locked: 0,
+																			  cookieCategoriesDescriptions: {},
+																			  alwaysReloadAfterCategoriesChange: 0,
+																			  preserveLockedCategories: 1,
+																			  reloadOnfirstDeclineall: 0,
+																			  trackExistingCheckboxSelectors: '',
+															  		  		  trackExistingCheckboxConsentLogsFormfields: 'name,email,subject,message',
+																			  allowallShowbutton: 1,
+																			  allowallText: 'Sutikti su visais',
+																			  allowallButtonBackground: '#ffffff',
+																			  allowallButtonBorder: '#ffffff',
+																			  allowallButtonText: '#000000',
+																			  includeAcceptButton: 0,
+																			  optoutIndividualResources: 0,
+																			  blockIndividualResourcesServerside: 0,
+																			  allowallIndividualResources: 1,
+																			  externalAdvancedBlockingModeTags: 'tst',
+																			  debugMode: 0
+																		};var gdpr_ajax_livesite='https://www.vu.lt/';var gdpr_enable_log_cookie_consent=1;var gdprUseCookieCategories=1;var gdpr_ajaxendpoint_cookie_category_desc='https://www.vu.lt/index.php?option=com_gdpr&task=user.getCookieCategoryDescription&format=raw&lang=lt';var gdprCookieCategoryDisabled2=1;var gdprCookieCategoryDisabled3=1;var gdprCookieCategoryDisabled4=1;var gdprJSessCook='274c12403b07abd91ce46720b86670e4';var gdprJSessVal='2fe150931e34994b1e85c1729b6d3d9b';var gdprJAdminSessCook='2fff2135fa04cbca7202d5288ea2b8d9';var gdprPropagateCategoriesSession=1;var gdprFancyboxWidth=700;var gdprFancyboxHeight=800;var gdprCloseText='Close';
+	</script>
+	<link href="https://www.vu.lt/" rel="alternate" hreflang="x-default" />
+	<link rel="apple-touch-icon" href="https://www.vu.lt/templates/gk_university/images/touch-device.png">
+	<link rel="apple-touch-icon-precomposed" href="https://www.vu.lt/templates/gk_university/images/touch-device.png">
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TJKJR7K');</script>
+
+    <link rel="stylesheet" href="https://www.vu.lt/templates/gk_university/css/small.desktop.css" media="(max-width: 1230px)" />
+<link rel="stylesheet" href="https://www.vu.lt/templates/gk_university/css/tablet.css" media="(max-width: 991px)" />
+<link rel="stylesheet" href="https://www.vu.lt/templates/gk_university/css/small.tablet.css" media="(max-width: 767px)" />
+<link rel="stylesheet" href="https://www.vu.lt/templates/gk_university/css/mobile.css" media="(max-width: 575px)" />
+<link rel="stylesheet" href="https://www.vu.lt/templates/gk_university/css/override.css?v1" />
+<link rel="stylesheet" href="https://www.vu.lt/templates/gk_university/css/override2.css?v1.1" />
+
+<!--[if IE 9]>
+<link rel="stylesheet" href="https://www.vu.lt/templates/gk_university/css/ie/ie9.css" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="https://www.vu.lt/templates/gk_university/css/ie/ie8.css" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="https://www.vu.lt/templates/gk_university/css/ie/ie7.css" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 9]>
+<script type="text/javascript" src="https://www.vu.lt/templates/gk_university/js/ie.js"></script>
+<![endif]-->
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,600,800&amp;subset=latin-ext" rel="stylesheet">
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="https://www.vu.lt/templates/gk_university/js/respond.js"></script>
+<script type="text/javascript" src="https://www.vu.lt/templates/gk_university/js/selectivizr.js"></script>
+<script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=NmPl5Q4m8x">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?v=NmPl5Q4m8x">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?v=NmPl5Q4m8x">
+<link rel="manifest" href="/site.webmanifest?v=NmPl5Q4m8x">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=NmPl5Q4m8x" color="#78003f">
+<link rel="shortcut icon" href="/favicon.ico?v=NmPl5Q4m8x">
+<meta name="msapplication-TileColor" content="#78003f">
+<meta name="theme-color" content="#78003f">
+
+	 </head>
+<body data-tablet-width="991" data-mobile-width="575" data-zoom-size="150" data-smoothscroll="1">
+        	
+	<div id="gkUniversityPreloader" ></div>
+	<div id="gkBg">
+		
+	    <header id="gkHeader">
+			<div id="gkHeaderNav">
+				<div class="gkPage">
+					
+     	 <a href="https://www.vu.lt/" id="gkLogo">
+        <img src="https://www.vu.lt/site_files/logo_vu_baltas.svg" alt="Vilniaus universitetas" />
+        <img src="https://www.vu.lt/site_files/logo_vu_baltas_text.svg" class="textLogo" style="display: none" alt="Vilniaus universitetas" />
+     </a>
+     
+	                 	                 <div id="gkMainMenu" class="gkMenuClassic">
+	                         <nav id="gkExtraMenu" class="gkMenu">
+<ul class="gkmenu level0"><li  class="first haschild"><a href="/apiemus"  class="first haschild" id="menu24"  >Apie VU</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol  first"><ul class="gkmenu level1"><li  class="first"><a href="/apiemus/istorija"  class="first" id="menu25"  >Istorija</a></li><li ><a href="/apiemus/faktai"  id="menu26"  >Faktai ir skaičiai</a></li><li ><a href="/apiemus/garbes-nariai"  id="menu462"  >Garbės nariai</a></li><li ><a href="/apiemus/struktura"  id="menu37"  >Struktūra</a></li><li ><a href="/apiemus/dokumentai"  id="menu33"  >Veiklos dokumentai</a></li><li ><a href="/apiemus/partneryste"  id="menu2176"  >Partnerystė</a></li><li ><a href="/apiemus/lygios-galimybes"  id="menu247"  >Lygios galimybės</a></li><li ><a href="/apiemus/universiteto-stiliaus-knyga"  id="menu268"  >Universiteto stiliaus knyga</a></li><li ><a href="http://www.vuf.lt/" target="_blank"  id="menu1569"  >Fondas</a></li><li ><a href="/apiemus/korupcijos-prevencija"  id="menu1154"  >Korupcijos prevencija</a></li><li ><a href="/apiemus/reorganizavimas"  id="menu2174"  >Reorganizavimas</a></li><li ><a href="/apiemus/karjera"  id="menu1115"  >Karjera</a></li><li  class="last"><a href="/apiemus/kontaktai-ir-nuorodos"  class="last" id="menu519"  >Kontaktai</a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="/studijos"  class="haschild" id="menu264"  >Studijos</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol  first"><ul class="gkmenu level1"><li  class="first"><a href="/studijos/stojantiesiems"  class="first" id="menu2187"  >Stojantiesiems</a></li><li ><a href="/studijos/studentams"  id="menu419"  >Studentams</a></li><li ><a href="/studijos/doktoranturos-studijos"  id="menu3259"  >Doktorantams</a></li><li ><a href="https://www.mf.vu.lt/rezidentura/studijos-programos-koordinatoriai-rspk" target="_blank"  id="menu2446"  >Rezidentams</a></li><li ><a href="/studijos/studiju-kokybe"  id="menu631"  >Studijų kokybė</a></li><li ><a href="/studijos/mokymai"  id="menu326"  >Mokymai</a></li><li  class="last"><a href="/studijos/mokymasis-visa-gyvenima"  class="last" id="menu328"  >Mokymasis visą gyvenimą</a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="/mokslas"  class="haschild" id="menu27"  >Mokslas</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol  first"><ul class="gkmenu level1"><li  class="first"><a href="/mokslas/moksline-veikla"  class="first" id="menu28"  >Mokslinė veikla</a></li><li ><a href="/mokslas/mokslo-etika"  id="menu1925"  >Mokslo etika</a></li><li ><a href="/mokslas/tyrejo-karjera-vu"  id="menu2313"  >Tyrėjo karjera Universitete</a></li><li ><a href="https://www.vu.lt/leidyba/" target="_blank"  id="menu226"  >Universiteto mokslo periodika ir knygos</a></li><li ><a href="/mokslas/mokslas-verslui"  id="menu841"  >Mokslas – verslui</a></li><li  class="last"><a href="/mokslas/kontaktai"  class="last" id="menu767"  >Kontaktai</a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="/tarptautiniai-rysiai"  class="haschild" id="menu114"  >Tarptautiniai ryšiai</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol  first"><ul class="gkmenu level1"><li  class="first"><a href="/tarptautiniai-rysiai/arqus-europos-universitetu-aljansas"  class="first" id="menu99"  >ARQUS Europos universitetų aljansas</a></li><li ><a href="/tarptautiniai-rysiai/naujienos"  id="menu671"  >Naujienos</a></li><li ><a href="/tarptautiniai-rysiai/partneryste"  id="menu528"  >Partnerystė</a></li><li ><a href="/tarptautiniai-rysiai/projektai"  id="menu530"  >Projektai</a></li><li ><a href="/tarptautiniai-rysiai/mainu-galimybes"  id="menu529"  >Mainų galimybės</a></li><li ><a href="/tarptautiniai-rysiai/kitos-studiju-uzsienyje-galimybes"  id="menu669"  >Kitos studijų užsienyje galimybės</a></li><li ><a href="/tarptautiniai-rysiai/europos-vasaros-akademija"  id="menu1955"  >Europos vasaros akademija</a></li><li  class="last"><a href="/tarptautiniai-rysiai/tprs-kontaktai"  class="last" id="menu707"  >Kontaktai</a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="http://www.naujienos.vu.lt" target="_blank"  class="haschild" id="menu23"  >Naujienos</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol  first"><ul class="gkmenu level1"><li  class="first"><a href="http://naujienos.vu.lt" target="_blank"  class="first" id="menu628"  >Portalas „VU naujienos“</a></li><li ><a href="http://naujienos.vu.lt/pranesimai-spaudai" target="_blank"  id="menu908"  >Pranešimai spaudai</a></li><li ><a href="http://naujienos.vu.lt/ekspertu-sarasas/" target="_blank"  id="menu928"  >Ekspertų sąrašas</a></li><li ><a href="/naujienos/ivykiu-kalendorius"  id="menu159"  >Renginių kalendorius</a></li><li ><a href="/naujienos/spectrum"  id="menu2995"  >Žurnalas „Spectrum“</a></li><li ><a href="/naujienos/laikrastis-universitas-vilnensis"  id="menu907"  >Laikraštis „Universitas Vilnensis“</a></li><li ><a href="/naujienos/viesieji-pirkimai"  id="menu324"  >Viešieji pirkimai</a></li><li ><a href="/naujienos/skelbimai"  id="menu1239"  >Skelbimai</a></li><li  class="last"><a href="/naujienos/tinklalaide"  class="last" id="menu127"  >Tinklalaidė</a></li></ul></div>
+</div>
+</div></li><li ><a href="https://www.vu.lt/gyvenimas-universitete"  id="menu1576"  >Gyvenimas VU</a></li><li ></li><li ></li><li ></li><li ></li><li ></li><li  class="haschild"><a href="/kviecia-vu"  class="haschild" id="menu2013"  >Kviečia VU</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol  first"><ul class="gkmenu level1"><li  class="first"><a href="/kviecia-vu/mokyklos-ir-akademijos"  class="first" id="menu2015"  >Mokyklos ir akademijos</a></li><li ><a href="/kviecia-vu/vizitai"  id="menu2016"  >Vizitai</a></li><li ><a href="/kviecia-vu/renginiai-mokytojams"  id="menu2182"  >Renginiai mokytojams</a></li><li ><a href="/kviecia-vu/lead"  id="menu2255"  >#LEAD</a></li><li ><a href="/kviecia-vu/vu-ekspertai-padeda-suprasti"  id="menu839"  >VU ekspertai padeda suprasti</a></li><li ><a href="/kviecia-vu/isskirtiniai-profesoriai"  id="menu2311"  >Išskirtiniai profesoriai</a></li><li ><a href="https://www.vu.lt/rektoriui-jonui-kubiliui-100"  id="menu2638"  >Rektoriui Jonui Kubiliui – 100</a></li><li ><a href="/kviecia-vu/studentas-vienai-dienai"  id="menu2019"  >Studentas vienai dienai</a></li><li ><a href="/kviecia-vu/konsultacijos-stojantiesiems"  id="menu615"  >Konsultacijos stojantiesiems</a></li><li ><a href="/kviecia-vu/kurybingumo-mokykla"  id="menu2359"  >Kūrybingumo mokykla</a></li><li ><a href="/kviecia-vu/registracija-lmta-ir-vda-studentams"  id="menu815"  >Registracija LMTA ir VDA studentams</a></li><li ><a href="/kviecia-vu/vaiku-universitetas"  id="menu2018"  >Vaikų universitetas</a></li><li ><a href="/kviecia-vu/ekskursijos-ir-ansamblio-lankymas"  id="menu2028"  >Ekskursijos ir ansamblio lankymas</a></li><li  class="last"><a href="/kviecia-vu/paslaugos"  class="last" id="menu1984"  >Paslaugos</a></li></ul></div>
+</div>
+</div></li><li  class="last"><a href="https://www.vu.lt/parama-ukrainai"  class="last" id="menu3294"  >PARAMA UA</a></li></ul>
+</nav>	                 </div>
+	                 
+	                 	                 <div id="gkMobileMenu" class="gkPage">
+	                     <i id="static-aside-menu-toggler" class="fa fa-bars"></i>
+	                 </div>
+	                 
+                                        <div id="top_right">
+                      <div class="mod-languages">
+    
+            <ul class="lang-inline">
+
+                                                <li dir="ltr">
+                        <a href="/en/">
+                                                            EN                                                    </a>
+                    </li>
+                                                                </ul>
+    
+    </div>
+<div class="itp-gs">
+    <div id="search-icon"><img src="/images/icons8-search-filled-20-white.png"></div>
+    <form class="hidden" action="/paieska" method="get" accept-charset="utf-8" id="search-form">
+        <div class="input-container  jevgenij">
+            <input type="text" placeholder="Ko ieškote?" class="text" name="gsquery" value="" id="search" />
+            <label for="go-search"><img src="/images/icons8-search-filled-25-black.png"></label>
+            <input type="submit" class="submit" value="Search" id="go-search" />
+        </div>
+        <div class="clear"></div>
+        <div class="radios">
+            <label for="in-website" class="selectedSearchField">
+                <input type="radio" name="searchin" value="in-website" id="in-website" checked="checked" /><span>Tinklalapis</span>
+            </label>
+            <label for="in-phonebook">
+                <input type="radio" name="searchin" value="in-phonebook" id="in-phonebook"  /><span>Kontaktai</span>
+            </label>
+        </div>
+        <div class="clear"></div>
+    </form>
+</div>
+
+
+
+<div class="custom">
+
+	<div title="E.paslaugos" class="e-services"><a href="http://www.epaslaugos.vu.lt/" target="_blank" rel="noopener"><img src="/images/icons8-services-20.png" alt="VU e.paslaugos" /></a></div>	
+</div>
+
+                    </div>
+                    
+		    	</div>
+	    	</div>
+
+	    		    	<div id="gkHeaderBg">
+	    		<div
+        id="gkIs-gk-is-1"
+        class="gkIsWrapper-gk_university"
+				>
+    <div class="gkIsPreloader">
+        <div class="spinner">
+            <div class="dot1"></div>
+            <div class="dot2"></div>
+        </div>
+    </div>
+
+												            <figure data-url="https://www.vu.lt//site_files/Landing_paveiksliukai/2022/VU_QS_400_1920x633.jpg" data-link="https://naujienos.vu.lt/vu-antrus-metus-is-eiles-geriausiu-pasaulio-universitetu-400-uke/" data-zindex="3" data-title="VU pakartojo rekordinį pasiekimą geriausių pasaulio universitetų reitinge">
+				
+                    <figcaption class="gkPage container">
+                        <div>
+							                            <h2><a href="https://naujienos.vu.lt/vu-antrus-metus-is-eiles-geriausiu-pasaulio-universitetu-400-uke/">VU pakartojo rekordinį pasiekimą geriausių pasaulio universitetų reitinge</a></h2>
+                            <p><a href="https://naujienos.vu.lt/vu-antrus-metus-is-eiles-geriausiu-pasaulio-universitetu-400-uke/"><div class="studies-text"><a class="studies-button" href="https://www.vu.lt/kviecia-vu/studentas-vienai-dienai">Skaityti</a></div></a></p>
+
+                        </div>
+                    </figcaption>
+
+				            </figure>
+									            <figure data-url="https://www.vu.lt/site_images/Mentoryste_baneris_1920x633.jpg" data-link="https://www.vu.lt/mentoriai" data-zindex="4" data-title="VU MENTORYSTĖ - PASITIKĖK PATIRTIMI">
+				
+                    <figcaption class="gkPage container">
+                        <div>
+							                            <h2><a href="https://www.vu.lt/mentoriai">VU MENTORYSTĖ - PASITIKĖK PATIRTIMI</a></h2>
+                            <p><a href="https://www.vu.lt/mentoriai"><div class="studies-text"><a class="studies-button" https:>Registruotis</a></div></a></p>
+
+                        </div>
+                    </figcaption>
+
+				            </figure>
+									            <figure data-url="https://www.vu.lt/site_images/verslas.png" data-link="https://www.vu.lt/verslui?utm_source=landing&utm_medium=banner&utm_campaign=business" data-zindex="5" data-title="Vilniaus universitetas – Jūsų verslo partneris">
+				
+                    <figcaption class="gkPage container">
+                        <div>
+							                            <h2><a href="https://www.vu.lt/verslui?utm_source=landing&utm_medium=banner&utm_campaign=business">Vilniaus universitetas – Jūsų verslo partneris</a></h2>
+                            <p><a href="https://www.vu.lt/verslui?utm_source=landing&utm_medium=banner&utm_campaign=business"><div class="studies-text"><a class="studies-button" href="https://www.vu.lt/verslui?utm_source=landing&utm_medium=banner&utm_campaign=business">Skaityti daugiau</a></div></a></p>
+
+                        </div>
+                    </figcaption>
+
+				            </figure>
+									            <figure data-url="https://www.vu.lt/site_images/Gimtadienio.png" data-link="" data-zindex="6" data-title="VU dovanos Vilniaus 700-ajam gimtadieniui">
+				
+                    <figcaption class="gkPage container">
+                        <div>
+							                            <h2><a href="/">VU dovanos Vilniaus 700-ajam gimtadieniui</a></h2>
+                            <p><a href="/"><div class="studies-text"><a class="studies-button" https:>Renginiai </a></div></a></p>
+
+                        </div>
+                    </figcaption>
+
+				            </figure>
+																																			    <a href="#" class="gkIsPrev"><span>&laquo;</span></a>
+    <a href="#" class="gkIsNext"><span>&raquo;</span></a>
+
+    <ol class="bottom">
+															                <li class="active">2</li>
+									                <li>3</li>
+									                <li>4</li>
+									                <li>5</li>
+																																																								    </ol>
+	</div>
+    
+			</div>
+	    	
+	    		    </header>
+
+	    
+	    
+		<div id="gkPageContent">
+	    	<div class="gkPage">
+	    		
+                
+<div id="system-message-container">
+</div>
+
+	    		<div>
+			    	<div id="gkContent">
+
+						<div id="gkContentWrap">
+							
+							
+							
+							<section id="gkMainbody">
+																	<section class="blog-featured" itemscope itemtype="https://schema.org/Blog">
+	
+			
+		
+	
+	</section>
+															</section>
+
+							
+													</div>
+
+                        
+			    	</div>
+			    			    	</div>
+			</div>
+		</div>
+
+				<section id="gkBottom1" class="gkSingleModule">
+							<div class="box  mokslas upper-module gkmod-1"><h3 class="header gkPage"><span>Naujienos</span></h3><div class="content gkPage">	<div class="nspMain" id="nsp-nsp-274" data-config="{				'animation_speed': 400,				'animation_interval': 5000,				'animation_function': 'Fx.Transitions.Expo.easeIn',				'news_column': 3,				'news_rows': 2,				'links_columns_amount': 1,				'links_amount': 0			}">
+					<div class="nspArts bottom" style="width:100%;">
+				<div class="nspArtScroll1">
+					<div class="nspArtScroll2 nspPages2">
+																	<div class="nspArtPage active nspCol2">
+																				<div class="nspArt nspCol3" style="padding:0 0 0 0;;clear:both;">
+								<a href="https://naujienos.vu.lt/naujasis-vu-mf-dekanas-prof-d-jatuzis-issukiai-manes-negasdina/" class="nspImageWrapper tleft fnull gkResponsive"  style="margin:0;" target="_blank"><div class="news-img-container"><img  class="nspImage" src="https://www.vu.lt/modules/mod_news_pro_gk5/cache/downloaded.dalius_jatuzis_3_VU-MF-nuotrauka-1024x683nsp-274.jpg" alt="Sample Image"  /></div></a><p class="nspInfo nspInfo1 tleft fnone">2022 m. lapkričio 8 d. 11:39 </p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fleft has-image"><a href="https://naujienos.vu.lt/naujasis-vu-mf-dekanas-prof-d-jatuzis-issukiai-manes-negasdina/"  title="Naujasis VU MF dekanas prof. D. Jatužis: „Iššūkiai manęs negąsdina“" target="_blank">Naujasis VU MF dekanas prof. D. Jatužis: „Iššūkiai manęs negąsdina“</a></h4><p class="nspText tleft fleft">&bdquo;Kas mane paskatino i&scaron;eiti i&scaron; komforto zonos ir kandidatuoti &#303; Vilniaus universiteto Medicinos fakulteto dekano...</p><a class="readon fleft" href="https://naujienos.vu.lt/naujasis-vu-mf-dekanas-prof-d-jatuzis-issukiai-manes-negasdina/" target="_blank">DAUGIAU</a></div>							</div>
+																															<div class="nspArt nspCol3" style="padding:0 0 0 0;;">
+								<a href="https://naujienos.vu.lt/vilniaus-700-ojo-gimtadienio-proga-sventiniai-vilniaus-universiteto-renginiai/" class="nspImageWrapper tleft fnull gkResponsive"  style="margin:0;" target="_blank"><div class="news-img-container"><img  class="nspImage" src="https://www.vu.lt/modules/mod_news_pro_gk5/cache/downloaded.MicrosoftTeams-image-1024x338nsp-274.jpg" alt="Sample Image"  /></div></a><p class="nspInfo nspInfo1 tleft fnone">2022 m. lapkričio 7 d. 14:53 </p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fleft has-image"><a href="https://naujienos.vu.lt/vilniaus-700-ojo-gimtadienio-proga-sventiniai-vilniaus-universiteto-renginiai/"  title="Vilniaus 700-ojo gimtadienio proga – šventiniai Vilniaus universiteto renginiai" target="_blank">Vilniaus 700-ojo gimtadienio proga – šventiniai Vilniaus universiteto renginiai</a></h4><p class="nspText tleft fleft">Vilniaus universitetas (VU) &ndash; neatsiejama Vilniaus miesto dalis, pad&#279;jusi ir tebepadedanti miestui vystytis, tobul&#279;ti, pritraukti...</p><a class="readon fleft" href="https://naujienos.vu.lt/vilniaus-700-ojo-gimtadienio-proga-sventiniai-vilniaus-universiteto-renginiai/" target="_blank">DAUGIAU</a></div>							</div>
+																															<div class="nspArt nspCol3" style="padding:0 0 0 0;;">
+								<a href="https://naujienos.vu.lt/klasika-visiems-jau-desimta-karta-pakvies-klausytis-amzinosios-klasikos/" class="nspImageWrapper tleft fnull gkResponsive"  style="margin:0;" target="_blank"><div class="news-img-container"><img  class="nspImage" src="https://www.vu.lt/modules/mod_news_pro_gk5/cache/downloaded.Klasika-visiems-2021.Mantas-Bartasevicius-101-of-159-1024x683nsp-274.jpg" alt="Sample Image"  /></div></a><p class="nspInfo nspInfo1 tleft fnone">2022 m. lapkričio 7 d. 14:51 </p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fleft has-image"><a href="https://naujienos.vu.lt/klasika-visiems-jau-desimta-karta-pakvies-klausytis-amzinosios-klasikos/"  title="„Klasika visiems“ jau dešimtą kartą pakvies klausytis amžinosios klasikos" target="_blank">„Klasika visiems“ jau dešimtą kartą pakvies klausytis amžinosios klasikos</a></h4><p class="nspText tleft fleft">Lapkri&#269;io 12 d. 20 val. Vilniaus &Scaron;v. Jon&#371; ba&#382;ny&#269;ioje suskamb&#279;s jubiliejinio &ndash; de&scaron;imtojo &ndash; edukacinio...</p><a class="readon fleft" href="https://naujienos.vu.lt/klasika-visiems-jau-desimta-karta-pakvies-klausytis-amzinosios-klasikos/" target="_blank">DAUGIAU</a></div>							</div>
+																															<div class="nspArt nspCol3" style="padding:0 0 0 0;;clear:both;">
+								<a href="https://naujienos.vu.lt/spectrum-kiek-potencialiu-gyvenimo-metu-praranda-lietuvos-gyventojai-del-psichikos-sveikatos/" class="nspImageWrapper tleft fnull gkResponsive"  style="margin:0;" target="_blank"><div class="news-img-container"><img  class="nspImage" src="https://www.vu.lt/modules/mod_news_pro_gk5/cache/downloaded.SPECTRUM_PSICHIKOS-SVEIKATA_Polapiui_926x400nsp-274.png" alt="Sample Image"  /></div></a><p class="nspInfo nspInfo1 tleft fnone">2022 m. lapkričio 7 d. 09:21 </p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fleft has-image"><a href="https://naujienos.vu.lt/spectrum-kiek-potencialiu-gyvenimo-metu-praranda-lietuvos-gyventojai-del-psichikos-sveikatos/"  title="SPECTRUM: Kiek potencialių gyvenimo metų praranda Lietuvos gyventojai dėl psichikos sveikatos?" target="_blank">SPECTRUM: Kiek potencialių gyvenimo metų praranda Lietuvos gyventojai dėl psichikos sveikatos?</a></h4><p class="nspText tleft fleft">Gera psichikos sveikata yra vienas svarbiausi&#371; visaver&#269;io ir ilgame&#269;io gyvenimo veiksni&#371;, o jos pablog&#279;jimas sukelia...</p><a class="readon fleft" href="https://naujienos.vu.lt/spectrum-kiek-potencialiu-gyvenimo-metu-praranda-lietuvos-gyventojai-del-psichikos-sveikatos/" target="_blank">DAUGIAU</a></div>							</div>
+																															<div class="nspArt nspCol3" style="padding:0 0 0 0;;">
+								<a href="https://naujienos.vu.lt/skaitmenizacija-ar-robotai-gali-pakeisti-zmones/" class="nspImageWrapper tleft fnull gkResponsive"  style="margin:0;" target="_blank"><div class="news-img-container"><img  class="nspImage" src="https://www.vu.lt/modules/mod_news_pro_gk5/cache/downloaded.aideal-hwa-OYzbqk2y26c-unsplash-1024x682nsp-274.jpg" alt="Sample Image"  /></div></a><p class="nspInfo nspInfo1 tleft fnone">2022 m. lapkričio 4 d. 14:05 </p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fleft has-image"><a href="https://naujienos.vu.lt/skaitmenizacija-ar-robotai-gali-pakeisti-zmones/"  title="Skaitmenizacija: ar robotai gali pakeisti žmones?" target="_blank">Skaitmenizacija: ar robotai gali pakeisti žmones?</a></h4><p class="nspText tleft fleft">Pastar&#261;j&#303; de&scaron;imtmet&#303; technologij&#371; ir komunikacijos augimo greitis buvo mil&#382;ini&scaron;kas. Masinis skaitmenini&#371; technologij&#371; naudojimas pakeit&#279; individualias...</p><a class="readon fleft" href="https://naujienos.vu.lt/skaitmenizacija-ar-robotai-gali-pakeisti-zmones/" target="_blank">DAUGIAU</a></div>							</div>
+																															<div class="nspArt nspCol3" style="padding:0 0 0 0;;">
+								<a href="https://naujienos.vu.lt/vu-su-arqus-universitetais-pasirase-bendradarbiavimo-sutarti-del-jungtines-magistranturos-studiju-programos/" class="nspImageWrapper tleft fnull gkResponsive"  style="margin:0;" target="_blank"><div class="news-img-container"><img  class="nspImage" src="https://www.vu.lt/modules/mod_news_pro_gk5/cache/downloaded.VU-MIF-studentai-J-Auskelio-foto-1-1024x683nsp-274.jpg" alt="Sample Image"  /></div></a><p class="nspInfo nspInfo1 tleft fnone">2022 m. lapkričio 4 d. 13:45 </p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fleft has-image"><a href="https://naujienos.vu.lt/vu-su-arqus-universitetais-pasirase-bendradarbiavimo-sutarti-del-jungtines-magistranturos-studiju-programos/"  title="VU su „Arqus“ universitetais pasirašė bendradarbiavimo sutartį dėl jungtinės magistrantūros studijų programos" target="_blank">VU su „Arqus“ universitetais pasirašė bendradarbiavimo sutartį dėl jungtinės magistrantūros studijų programos</a></h4><p class="nspText tleft fleft">Vilniaus, Granados, Minjo ir Paduvos universitetai pasira&scaron;&#279; bendradarbiavimo sutart&#303; d&#279;l &bdquo;Arqus&ldquo; jungtin&#279;s magistrant&#363;ros studij&#371; programos...</p><a class="readon fleft" href="https://naujienos.vu.lt/vu-su-arqus-universitetais-pasirase-bendradarbiavimo-sutarti-del-jungtines-magistranturos-studiju-programos/" target="_blank">DAUGIAU</a></div>							</div>
+												</div>
+						<div class="nspArtPage nspCol2">
+																															<div class="nspArt nspCol3" style="padding:0 0 0 0;;clear:both;">
+								<a href="https://naujienos.vu.lt/kam-verta-skiepytis-atnaujinta-covid-19-vakcina/" class="nspImageWrapper tleft fnull gkResponsive"  style="margin:0;" target="_blank"><div class="news-img-container"><img  class="nspImage" src="https://www.vu.lt/modules/mod_news_pro_gk5/cache/downloaded.skiepas-1024x753nsp-274.jpg" alt="Sample Image"  /></div></a><p class="nspInfo nspInfo1 tleft fnone">2022 m. lapkričio 3 d. 16:09 </p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fleft has-image"><a href="https://naujienos.vu.lt/kam-verta-skiepytis-atnaujinta-covid-19-vakcina/"  title="Kam verta skiepytis atnaujinta COVID-19 vakcina?" target="_blank">Kam verta skiepytis atnaujinta COVID-19 vakcina?</a></h4><p class="nspText tleft fleft">Kam verta skiepytis atnaujinta COVID-19 vakcina? Kuo ji skiriasi nuo pirm&#371;j&#371; vakcin&#371; ir k&#261; moksliniai...</p><a class="readon fleft" href="https://naujienos.vu.lt/kam-verta-skiepytis-atnaujinta-covid-19-vakcina/" target="_blank">DAUGIAU</a></div>							</div>
+																															<div class="nspArt nspCol3" style="padding:0 0 0 0;;">
+								<a href="https://naujienos.vu.lt/spectrum-septyni-is-desimties-lietuvos-paaugliu-yra-susidure-su-smurtu-daugiausia-psichologiniu/" class="nspImageWrapper tleft fnull gkResponsive"  style="margin:0;" target="_blank"><div class="news-img-container"><img  class="nspImage" src="https://www.vu.lt/modules/mod_news_pro_gk5/cache/downloaded.SPECTRUM_AAUGLIU%25CC%25A8-STRESO-TYRIMAS_Polapiui_926x400nsp-274.png" alt="Sample Image"  /></div></a><p class="nspInfo nspInfo1 tleft fnone">2022 m. lapkričio 3 d. 09:09 </p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fleft has-image"><a href="https://naujienos.vu.lt/spectrum-septyni-is-desimties-lietuvos-paaugliu-yra-susidure-su-smurtu-daugiausia-psichologiniu/"  title="SPECTRUM: Septyni iš dešimties Lietuvos paauglių yra susidūrę su smurtu – daugiausia psichologiniu" target="_blank">SPECTRUM: Septyni iš dešimties Lietuvos paauglių yra susidūrę su smurtu – daugiausia psichologiniu</a></h4><p class="nspText tleft fleft">71 proc. 12&ndash;16 met&#371; am&#382;iaus Lietuvos paaugli&#371; per savo gyvenim&#261; patyr&#279; bent vienos r&#363;&scaron;ies smurt&#261;...</p><a class="readon fleft" href="https://naujienos.vu.lt/spectrum-septyni-is-desimties-lietuvos-paaugliu-yra-susidure-su-smurtu-daugiausia-psichologiniu/" target="_blank">DAUGIAU</a></div>							</div>
+																															<div class="nspArt nspCol3" style="padding:0 0 0 0;;">
+								<a href="https://naujienos.vu.lt/vu-fiziku-straipsnis-prestiziniame-zurnale-mokslininkai-pergudravo-heizenberga-ir-pauli-kad-galetu-tiksliau-ismatuoti-laika/" class="nspImageWrapper tleft fnull gkResponsive"  style="margin:0;" target="_blank"><div class="news-img-container"><img  class="nspImage" src="https://www.vu.lt/modules/mod_news_pro_gk5/cache/downloaded.m.mackoit-1024x576nsp-274.png" alt="Sample Image"  /></div></a><p class="nspInfo nspInfo1 tleft fnone">2022 m. lapkričio 3 d. 08:57 </p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fleft has-image"><a href="https://naujienos.vu.lt/vu-fiziku-straipsnis-prestiziniame-zurnale-mokslininkai-pergudravo-heizenberga-ir-pauli-kad-galetu-tiksliau-ismatuoti-laika/"  title="VU fizikų straipsnis prestižiniame žurnale:  mokslininkai pergudravo Heizenbergą ir Pauli, kad galėtų tiksliau išmatuoti laiką" target="_blank">VU fizikų straipsnis prestižiniame žurnale:  mokslininkai pergudravo Heizenbergą ir Pauli, kad galėtų tiksliau išmatuoti laiką</a></h4><p class="nspText tleft fleft">Vilniaus universiteto Fizikos fakulteto mokslinink&#371; grup&#279;s (prof. Gediminas Juzeli&#363;nas, dr. Ma&#382;ena Mackoit-Sinkevi&#269;ien&#279; ir dr. Giedrius...</p><a class="readon fleft" href="https://naujienos.vu.lt/vu-fiziku-straipsnis-prestiziniame-zurnale-mokslininkai-pergudravo-heizenberga-ir-pauli-kad-galetu-tiksliau-ismatuoti-laika/" target="_blank">DAUGIAU</a></div>							</div>
+																															<div class="nspArt nspCol3" style="padding:0 0 0 0;;clear:both;">
+								<a href="https://naujienos.vu.lt/spectrum-biologiniai-jutikliai-nuo-vaistu-testavimo-iki-elektros-sroves-generavimo/" class="nspImageWrapper tleft fnull gkResponsive"  style="margin:0;" target="_blank"><div class="news-img-container"><img  class="nspImage" src="https://www.vu.lt/modules/mod_news_pro_gk5/cache/downloaded.SPECTRUM_BIOLOGINIAI-JUTIKLIAI_Polapiui_926x400nsp-274.png" alt="Sample Image"  /></div></a><p class="nspInfo nspInfo1 tleft fnone">2022 m. spalio 31 d. 10:22 </p><div class="gkArtContentWrap"><h4 class="nspHeader tleft fleft has-image"><a href="https://naujienos.vu.lt/spectrum-biologiniai-jutikliai-nuo-vaistu-testavimo-iki-elektros-sroves-generavimo/"  title="SPECTRUM: Biologiniai jutikliai – nuo vaistų testavimo iki elektros srovės generavimo" target="_blank">SPECTRUM: Biologiniai jutikliai – nuo vaistų testavimo iki elektros srovės generavimo</a></h4><p class="nspText tleft fleft">Biologiniai jutikliai yra da&#382;niausiai visai nepastebimi prietaisai, kurie naudojami, pavyzd&#382;iui, nustatant gliukoz&#279;s kiek&#303; kraujyje, aptinkant...</p><a class="readon fleft" href="https://naujienos.vu.lt/spectrum-biologiniai-jutikliai-nuo-vaistu-testavimo-iki-elektros-sroves-generavimo/" target="_blank">DAUGIAU</a></div>							</div>
+												</div>
+																</div>
+				</div>
+									</div>
+					</div>
+	</div></div>
+					</section>
+		
+	    	    <section id="gkBottom2" class="gkSingleModule">
+	    		    		<div class="box vucalendar grey upper-module gkmod-1"><h3 class="header gkPage"><span>Renginiai</span></h3><div class="content gkPage">
+    <div class="main-block">
+        <div class="eventsDateBox">
+
+            <div class="kalendorius" id="kalendorius"></div>
+        </div>
+
+        <div id="events" class="carousel">
+            <h3 class="todayDate"></h3>
+            <div id="grid" data-columns></div>
+        </div>
+    </div>
+
+
+
+<script src="https://www.vu.lt//modules/mod_vucal/assets/js/salvattore.js"></script>
+<script type="text/javascript">
+
+    function initCalendar(){
+        jQuery.datepicker.regional['lt'] = {
+            clearText: 'Effacer', clearStatus: '',
+            closeText: 'Fermer', closeStatus: 'Fermer sans modifier',
+            prevText: 'Ankstesnis',
+            prevStatus: 'Voir le mois précédent',
+            nextText: 'Sekantis',
+            nextStatus: 'Voir le mois suivant',
+            currentText: 'Šiandien',
+            currentStatus: 'Peržiūrėti dabartinį mėnesį',
+            monthNames: ['Sausis','Vasaris','Kovas','Balandis','Gegužė','Birželis',
+                'Liepa','Rugpjūtis','Rugsėjis','Spalis','Lapkritis','Gruodis'],
+            monthNamesShort: ['Saus.','Vas.','Kov.','Bal.','Geg.','Birž.',
+                'Liep.','Rugpj.','Rugs.','Spal.','Lapk.','Gruod.'],
+            monthStatus: 'Žiūrėti kitą mėnesį', yearStatus: 'Peržiūrėti sekančius metus',
+            monthNames: ['Sausis','Vasaris','Kovas','Balandis','Gegužė','Birželis','Liepa','Rugpjūtis','Rugsėjis','Spalis','Lapkritis','Gruodis'],
+            monthNamesShort: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+            dayNames: ["Sekmadienis", "Pirmadienis", "Antradienis", "Trečiadienis", "Ketvirtadienis", "Penktadienis", "Šeštadienis"],
+            dayNamesShort: ["S", "P", "A", "T", "K", "P", "&#352;"],
+            dayNamesMin: ["S", "Pr", "An", "Tr", "Kt", "Pn", "&#352;"],
+            weekHeader: "Wk",
+            dateFormat: 'yy-mm-dd',
+            dateFormat: "mm/dd/yy",    initStatus: 'Pasirinkite datą', isRTL: false};
+        jQuery.datepicker.setDefaults(jQuery.datepicker.regional['lt']);
+
+    }
+
+        /*
+	Datepicker custom events
+*/
+    jQuery(document).ready(function() {
+
+        function correctLength(number){
+            if ( number.toString().length < 2 ) number = "0" + number;
+            return number;
+        }
+
+        function loadCalendarTooltip( Year, Month, Day ) {
+            // Jeigu data nenurodyta, krauname šios dienos renginius
+            if(!Year) { Year = (new Date).getFullYear(); }
+            if(!Month) { Month = (new Date).getMonth() + 1; }
+            if(!Day) { Day = (new Date).getDay() + 1; }
+            Day     = correctLength( Day );
+            Month   = correctLength( Month );
+
+            jQuery.ajax({
+                type: "GET",
+                url: 'index.php?option=com_ajax&module=vucal&method=getEvents&format=json&year='+Year+'&month='+Month+'&day='+Day+'&Itemid=21',
+                beforeSend: function() {
+
+                    jQuery('#events').css('opacity', '0.3');
+                },
+                failure: function(msg){
+                    console.log('Failed to load ajax');
+                }
+            }).done(function(data){
+                var data = jQuery.parseJSON(data);
+
+                jQuery('#grid .column').empty();
+
+                var selectedDate = Year+'-'+Month+'-'+Day+' dienos renginiai';
+
+                jQuery('.todayDate').empty();
+                jQuery('.todayDate').append(selectedDate);
+
+                var grid = document.querySelector('#grid');
+                var item = document.createElement('article');
+                if (data['event'][0]) {
+
+                    var content;
+                    var route = "/naujienos/ivykiu-kalendorius/"+Year+Month+Day;
+                    jQuery.each(data['event'], function( index, value ) {
+
+                        salvattore.appendElements(grid, [item]);
+                        if ( value.category) content = '<div class="category">'+value.category+'</div>';
+                        if ( value.title) content += '<div class="title">'+value.title+'</div>';
+                        if ( value.start) content += '<div class="start">'+value.start+'</div>';
+                        if ( value.end) content += '<div class="end">'+value.end+'</div>';
+
+                        item.outerHTML = '<div class="eventBox"><a href="'+route+"#"+value.id+'">'+content+'</a></div>';
+
+                    });
+                }
+                else{
+                    salvattore.appendElements(grid, [item])
+                    if (Year+'-'+Month+'-'+Day === (new Date).getFullYear() + '-' + correctLength((new Date).getMonth() + 1) + '-' + correctLength((new Date).getDate()))
+                        item.outerHTML = '<div class="eventBox noData">Šiandien įvykių nėra</div>';
+                    else item.outerHTML = '<div class="eventBox noData">Šiai dienai įvykių nėra</div>';
+                }
+
+                jQuery('#events').css('opacity', '1');
+            });
+        }
+
+        if (jQuery('#kalendorius').length > 0) {
+            initCalendar();
+
+            jQuery('#kalendorius').datepicker({
+                // gotoCurrent: true,
+                onSelect: function(dateText, obj) {
+                    var met = dateText.substring(6, 10);
+                    var men = dateText.substring(0,2);
+                    var dien = dateText.substring(3,5);
+                    loadCalendarTooltip(met,men, dien );
+
+                    obj.inline = false;
+                    //This removes any existing selection styling.
+                    jQuery(".ui-datepicker-calendar .ui-datepicker-current-day").removeClass("ui-datepicker-current-day").children().removeClass("ui-state-active");
+                    //This finds the selected link and styles it accordingly.
+                    jQuery(".ui-datepicker-calendar TBODY A").each(function() {
+                        if (jQuery(this).text() == obj.selectedDay) {
+                            jQuery(this).addClass("ui-state-active");
+                            jQuery(this).parent().addClass("ui-datepicker-current-day");
+                        }
+                    });
+                    return false;
+                },
+
+                firstDay: 1
+            });
+            var fullLen = ''.length;
+            var metai = ''.substr(fullLen-8, 4);
+            var menuo = ''.substr(fullLen-4, 2);
+            var diena = ''.substr(fullLen-2, 2);
+            if(!isNaN(parseInt(metai+menuo+diena)))
+                jQuery('#kalendorius').datepicker('setDate', new Date(metai, menuo-1, diena));
+
+            
+        }
+        loadCalendarTooltip(2022,11, 09 );
+    });
+
+    </script>
+
+</div></div>
+	    		    </section>
+	    
+	    	    <section id="gkBottom3" class="gkSingleModule">
+	    		    		<div class="box bg-uni-color gkmod-1"><div class="content gkPage">
+
+<div class="custom bg-uni-color">
+
+	<div class="studies-container">
+<div class="studies-text-container">
+<div class="studies-text-inner">
+<div class="studies-text">
+<h3>Studijos</h3>
+<ul>
+<li><a href="/studijos/stojantiesiems/bakalauro-studijos">Bakalauro ir vientisosios<em class="fa fa-chevron-right" aria-hidden="true"><br /></em></a></li>
+<li><a href="/studijos/stojantiesiems/magistranturos-studijos">Magistrantūros<em class="fa fa-chevron-right" aria-hidden="true"><br /></em></a></li>
+<li><a href="/studijos/doktorantams/priemimas-dokt">Doktorantūros<em class="fa fa-chevron-right" aria-hidden="true"><br /></em></a></li>
+<li><a href="/studijos/rezidentams">Rezidentūros<em class="fa fa-chevron-right" aria-hidden="true"><br /></em></a></li>
+<li><a href="/studijos/stojantiesiems/kolegiju-absolventams" target="_blank" rel="noopener">Papildomosios ir išlyginamosios<em class="fa fa-chevron-right" aria-hidden="true"><br /></em></a></li>
+<li><a href="/studijos/stojantiesiems/pedagogines-studijos" target="_blank" rel="noopener">Pedagoginės studijos<em class="fa fa-chevron-right" aria-hidden="true"><br /></em></a></li>
+<li><a href="/studijos/neformalusis-svietimas" target="_blank" rel="noopener">Mokymasis visą gyvenimą<em class="fa fa-chevron-right" aria-hidden="true"><br /></em></a></li>
+</ul>
+<a class="studies-button" href="/studijos/stojantiesiems">Plačiau apie studijas</a></div>
+</div>
+</div>
+<div class="studies-image-container">&nbsp;</div>
+</div>	
+</div>
+</div></div>
+	    		    </section>
+	    
+	    
+	    
+	        </div>
+
+    
+<footer id="gkFooter">
+     <div class="gkPage">
+                    <div id="gkFooterNav">
+               
+
+<div class="custom">
+
+	<div class="gkCols" data-cols="4">
+<div>
+<h4 class="footer-header">Vilniaus universitetas</h4>
+<ul>
+<li>
+<p>Universiteto g. 3, LT-01513 Vilnius</p>
+</li>
+<li>
+<p>Telefonas: <a href="tel:+37052687000">+370 5 268 7000</a></p>
+</li>
+<li>
+<p>El. paštas: <a href="javascript:/* EP_MESSAGE_PROTECTED*/"><span class="cloaked_email ep_afhbfbbp"><span data-ep-b="" data-ep-a="&#105;nf"><span data-ep-a="o&#114;&#64;" data-ep-b="&#108;t"><span data-ep-b="v&#117;&#46;" data-ep-a="&#99;&#114;."></span></span></span></span><span class="cloaked_email ep_59h2deep" style="display:none;"><span data-ep-b="" data-ep-a="&#105;n&#102;"><span data-ep-a="&#111;&#114;&#64;" data-ep-b="lt"><span data-ep-b="v&#117;&#46;" data-ep-a="c&#114;."></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_59h2deep", 1);</script></p>
+</li>
+<li>
+<p>Kodas:&nbsp;211950810</p>
+</li>
+<li>
+<p>PVM kodas:&nbsp;LT119508113</p>
+</li>
+</ul>
+</div>
+<div>
+<h4 class="footer-header">Informacija</h4>
+<ul>
+<li>
+<p>Studijų klausimais: <a href="tel:+37052193144 ">+370 5 219 3144</a></p>
+</li>
+<li>
+<p>El. paštas:&nbsp;<a href="javascript:/* EP_MESSAGE_PROTECTED*/"><span class="cloaked_email ep_bch5ed9p"><span data-ep-a="k&#111;&#110;s" data-ep-b=""><span data-ep-b="&#46;&#108;&#116;" data-ep-a="&#117;&#108;&#116;a"><span data-ep-a="&#118;&#105;ma" data-ep-b="&#115;&#64;vu"></span></span></span></span><span class="cloaked_email ep_3bh0259p" style="display:none;"><span data-ep-b="" data-ep-a="&#107;&#111;ns"><span data-ep-a="&#117;&#108;&#116;a" data-ep-b=".&#108;&#116;"><span data-ep-b="s&#64;v&#117;" data-ep-a="&#118;&#105;&#109;a"></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_3bh0259p", 1);</script></p>
+</li>
+<li>
+<p>Darbdaviams:&nbsp;<a href="tel:+37052366253">+370 5 236 6253</a></p>
+</li>
+<li>
+<p>El. paštas: <a href="javascript:/* EP_MESSAGE_PROTECTED*/"><span class="cloaked_email ep_e0hd594p"><span data-ep-b="&#116;" data-ep-a="&#107;&#97;&#114;&#106;"><span data-ep-b="&#118;&#117;&#46;&#108;" data-ep-a="&#101;r&#111;s"><span data-ep-a="&#99;&#101;&#110;t" data-ep-b="&#114;as&#64;"></span></span></span></span><span class="cloaked_email ep_72h1e55p" style="display:none;"><span data-ep-b="&#116;" data-ep-a="&#107;&#97;&#114;&#106;"><span data-ep-b="&#118;u&#46;&#108;" data-ep-a="er&#111;&#115;"><span data-ep-a="&#99;e&#110;&#116;" data-ep-b="&#114;&#97;&#115;&#64;"></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_72h1e55p", 1);</script></p>
+</li>
+</ul>
+</div>
+<div>
+<h4 class="footer-header">Nuorodos</h4>
+<ul>
+<li>
+<p><a href="/apiemus/struktura/padaliniai/">Padaliniai</a></p>
+</li>
+<li>
+<p><a href="https://biblioteka.vu.lt/" target="_blank" rel="noopener">Biblioteka</a></p>
+</li>
+<li>
+<p><a href="https://www.vuf.lt/" target="_blank" rel="noopener">Fondas</a></p>
+</li>
+<li>
+<p><a href="/alumni" target="_blank">Alumni</a></p>
+</li>
+<li>
+<p><a href="/verslui?utm_source=website&amp;utm_medium=footer&amp;utm_campaign=business">Verslui</a></p>
+</li>
+<li>
+<p><a href="/privatumo-politika">Privatumo politika</a></p>
+</li>
+</ul>
+</div>
+<div>
+<h4 class="footer-header">Socialiniai tinklai</h4>
+<ul>
+<li>
+<p><a href="https://www.facebook.com/VilniusUniversity" target="_blank" rel="noopener"><em class="fa fa-facebook-square" aria-hidden="true " data-mce-empty="1">&nbsp;</em>&nbsp;<span>Facebook</span></a></p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/vilniusuniversity/?ref=badge" target="_blank" rel="noopener"><em class="fa fa-instagram" aria-hidden="true " data-mce-empty="1">&nbsp;</em>&nbsp;<span>Instagram</span></a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/VU_LT" target="_blank" rel="noopener"><em class="fa fa-twitter-square" aria-hidden="true " data-mce-empty="1">&nbsp;</em>&nbsp;<span>Twitter</span></a></p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/school/vilnius-university/" target="_blank" rel="noopener"><em class="fa fa-linkedin-square" aria-hidden="true " data-mce-empty="1">&nbsp;</em>&nbsp;<span>Linkedin<span></span></span></a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/user/UniversitasVilnensis" target="_blank" rel="noopener"><em class="fa fa-youtube-square" aria-hidden="true " data-mce-empty="1">&nbsp;</em>&nbsp;<span>Youtube</span></a></p>
+</li>
+</ul>
+</div>
+<div class="footer-last-list">
+<ul>
+<li>
+<p>Ⓒ 2022 Vilniaus universitetas</p>
+</li>
+<li>
+<p><a href="javascript:/* EP_MESSAGE_PROTECTED*/">Tinklalapio administratorius<span class="cloaked_email ep_60h685dp" style="display:none;"><span data-ep-a="we&#98;" data-ep-b="&#46;&#108;&#116;"><span data-ep-a="&#109;&#97;&#115;" data-ep-b="&#46;vu"><span data-ep-b="&#64;&#99;&#114;" data-ep-a="t&#101;&#114;"></span></span></span></span></a><script type="text/javascript">emailProtector.addCloakedMailto("ep_60h685dp", 1);</script></p>
+</li>
+</ul>
+</div>
+</div>	
+</div>
+
+          </div>
+                                                                 </div>
+</footer>
+   	
+
+<!-- +1 button -->
+
+<!-- twitter -->
+
+
+<!-- Pinterest script --> 
+   	<div id="gkPopupOverlay"></div>
+
+   	<i id="close-menu" class="fa fa-times"></i>
+   	<nav id="aside-menu">
+   		<div>
+   			<div id="gkAsideMenu">
+<ul class="gkmenu level0"><li  class="first haschild"><a href="/apiemus"  class="first haschild"   >Apie VU</a><div class="asideMenuFixer"></div><ul class="gkmenu level1"><li  class="first"><a href="/apiemus/istorija"  class="first"   >Istorija</a><div class="asideMenuFixer"></div></li><li ><a href="/apiemus/faktai"    >Faktai ir skaičiai</a><div class="asideMenuFixer"></div></li><li ><a href="/apiemus/garbes-nariai"    >Garbės nariai</a><div class="asideMenuFixer"></div></li><li ><a href="/apiemus/struktura"    >Struktūra</a><div class="asideMenuFixer"></div></li><li ><a href="/apiemus/dokumentai"    >Veiklos dokumentai</a><div class="asideMenuFixer"></div></li><li ><a href="/apiemus/partneryste"    >Partnerystė</a><div class="asideMenuFixer"></div></li><li ><a href="/apiemus/lygios-galimybes"    >Lygios galimybės</a><div class="asideMenuFixer"></div></li><li ><a href="/apiemus/universiteto-stiliaus-knyga"    >Universiteto stiliaus knyga</a><div class="asideMenuFixer"></div></li><li ><a href="http://www.vuf.lt/" target="_blank"    >Fondas</a><div class="asideMenuFixer"></div></li><li ><a href="/apiemus/korupcijos-prevencija"    >Korupcijos prevencija</a><div class="asideMenuFixer"></div></li><li ><a href="/apiemus/reorganizavimas"    >Reorganizavimas</a><div class="asideMenuFixer"></div></li><li ><a href="/apiemus/karjera"    >Karjera</a><div class="asideMenuFixer"></div></li><li  class="last"><a href="/apiemus/kontaktai-ir-nuorodos"  class="last"   >Kontaktai</a><div class="asideMenuFixer"></div></li></ul></li><li  class="haschild"><a href="/studijos"  class="haschild"   >Studijos</a><div class="asideMenuFixer"></div><ul class="gkmenu level1"><li  class="first"><a href="/studijos/stojantiesiems"  class="first"   >Stojantiesiems</a><div class="asideMenuFixer"></div></li><li ><a href="/studijos/studentams"    >Studentams</a><div class="asideMenuFixer"></div></li><li ><a href="/studijos/doktoranturos-studijos"    >Doktorantams</a><div class="asideMenuFixer"></div></li><li ><a href="https://www.mf.vu.lt/rezidentura/studijos-programos-koordinatoriai-rspk" target="_blank"    >Rezidentams</a><div class="asideMenuFixer"></div></li><li ><a href="/studijos/studiju-kokybe"    >Studijų kokybė</a><div class="asideMenuFixer"></div></li><li ><a href="/studijos/mokymai"    >Mokymai</a><div class="asideMenuFixer"></div></li><li  class="last"><a href="/studijos/mokymasis-visa-gyvenima"  class="last"   >Mokymasis visą gyvenimą</a><div class="asideMenuFixer"></div></li></ul></li><li  class="haschild"><a href="/mokslas"  class="haschild"   >Mokslas</a><div class="asideMenuFixer"></div><ul class="gkmenu level1"><li  class="first"><a href="/mokslas/moksline-veikla"  class="first"   >Mokslinė veikla</a><div class="asideMenuFixer"></div></li><li ><a href="/mokslas/mokslo-etika"    >Mokslo etika</a><div class="asideMenuFixer"></div></li><li ><a href="/mokslas/tyrejo-karjera-vu"    >Tyrėjo karjera Universitete</a><div class="asideMenuFixer"></div></li><li ><a href="https://www.vu.lt/leidyba/" target="_blank"    >Universiteto mokslo periodika ir knygos</a><div class="asideMenuFixer"></div></li><li ><a href="/mokslas/mokslas-verslui"    >Mokslas – verslui</a><div class="asideMenuFixer"></div></li><li  class="last"><a href="/mokslas/kontaktai"  class="last"   >Kontaktai</a><div class="asideMenuFixer"></div></li></ul></li><li  class="haschild"><a href="/tarptautiniai-rysiai"  class="haschild"   >Tarptautiniai ryšiai</a><div class="asideMenuFixer"></div><ul class="gkmenu level1"><li  class="first"><a href="/tarptautiniai-rysiai/arqus-europos-universitetu-aljansas"  class="first"   >ARQUS Europos universitetų aljansas</a><div class="asideMenuFixer"></div></li><li ><a href="/tarptautiniai-rysiai/naujienos"    >Naujienos</a><div class="asideMenuFixer"></div></li><li ><a href="/tarptautiniai-rysiai/partneryste"    >Partnerystė</a><div class="asideMenuFixer"></div></li><li ><a href="/tarptautiniai-rysiai/projektai"    >Projektai</a><div class="asideMenuFixer"></div></li><li ><a href="/tarptautiniai-rysiai/mainu-galimybes"    >Mainų galimybės</a><div class="asideMenuFixer"></div></li><li ><a href="/tarptautiniai-rysiai/kitos-studiju-uzsienyje-galimybes"    >Kitos studijų užsienyje galimybės</a><div class="asideMenuFixer"></div></li><li ><a href="/tarptautiniai-rysiai/europos-vasaros-akademija"    >Europos vasaros akademija</a><div class="asideMenuFixer"></div></li><li  class="last"><a href="/tarptautiniai-rysiai/tprs-kontaktai"  class="last"   >Kontaktai</a><div class="asideMenuFixer"></div></li></ul></li><li  class="haschild"><a href="http://www.naujienos.vu.lt" target="_blank"  class="haschild"   >Naujienos</a><div class="asideMenuFixer"></div><ul class="gkmenu level1"><li  class="first"><a href="http://naujienos.vu.lt" target="_blank"  class="first"   >Portalas „VU naujienos“</a><div class="asideMenuFixer"></div></li><li ><a href="http://naujienos.vu.lt/pranesimai-spaudai" target="_blank"    >Pranešimai spaudai</a><div class="asideMenuFixer"></div></li><li ><a href="http://naujienos.vu.lt/ekspertu-sarasas/" target="_blank"    >Ekspertų sąrašas</a><div class="asideMenuFixer"></div></li><li ><a href="/naujienos/ivykiu-kalendorius"    >Renginių kalendorius</a><div class="asideMenuFixer"></div></li><li ><a href="/naujienos/spectrum"    >Žurnalas „Spectrum“</a><div class="asideMenuFixer"></div></li><li ><a href="/naujienos/laikrastis-universitas-vilnensis"    >Laikraštis „Universitas Vilnensis“</a><div class="asideMenuFixer"></div></li><li ><a href="/naujienos/viesieji-pirkimai"    >Viešieji pirkimai</a><div class="asideMenuFixer"></div></li><li ><a href="/naujienos/skelbimai"    >Skelbimai</a><div class="asideMenuFixer"></div></li><li  class="last"><a href="/naujienos/tinklalaide"  class="last"   >Tinklalaidė</a><div class="asideMenuFixer"></div></li></ul></li><li ><a href="https://www.vu.lt/gyvenimas-universitete"    >Gyvenimas VU</a><div class="asideMenuFixer"></div></li><li ></li><li ></li><li ></li><li ></li><li ></li><li  class="haschild"><a href="/kviecia-vu"  class="haschild"   >Kviečia VU</a><div class="asideMenuFixer"></div><ul class="gkmenu level1"><li  class="first"><a href="/kviecia-vu/mokyklos-ir-akademijos"  class="first"   >Mokyklos ir akademijos</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/vizitai"    >Vizitai</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/renginiai-mokytojams"    >Renginiai mokytojams</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/lead"    >#LEAD</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/vu-ekspertai-padeda-suprasti"    >VU ekspertai padeda suprasti</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/isskirtiniai-profesoriai"    >Išskirtiniai profesoriai</a><div class="asideMenuFixer"></div></li><li ><a href="https://www.vu.lt/rektoriui-jonui-kubiliui-100"    >Rektoriui Jonui Kubiliui – 100</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/studentas-vienai-dienai"    >Studentas vienai dienai</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/konsultacijos-stojantiesiems"    >Konsultacijos stojantiesiems</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/kurybingumo-mokykla"    >Kūrybingumo mokykla</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/registracija-lmta-ir-vda-studentams"    >Registracija LMTA ir VDA studentams</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/vaiku-universitetas"    >Vaikų universitetas</a><div class="asideMenuFixer"></div></li><li ><a href="/kviecia-vu/ekskursijos-ir-ansamblio-lankymas"    >Ekskursijos ir ansamblio lankymas</a><div class="asideMenuFixer"></div></li><li  class="last"><a href="/kviecia-vu/paslaugos"  class="last"   >Paslaugos</a><div class="asideMenuFixer"></div></li></ul></li><li  class="last"><a href="https://www.vu.lt/parama-ukrainai"  class="last"   >PARAMA UA</a><div class="asideMenuFixer"></div></li></ul>
+</div>   		</div>
+   	</nav>
+
+	
+
+	<script>
+	jQuery(document).ready(function(){
+   		// Target your .container, .wrapper, .post, etc.
+   		jQuery("body").fitVids();
+	});
+	</script>
+
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 803670560;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/803670560/?guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+
+    
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '989886858558440');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=989886858558440&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<script type="text/javascript">
+		window.onUsersnapCXLoad = function(api) {
+				var getlang = document.getElementsByTagName('html')[0].getAttribute('lang')
+
+				if (getlang.toLowerCase() == 'lt-lt') {
+					api.init({
+						locale: 'lt',
+					});
+				} else {
+					api.init({
+						locale: 'en',
+					});
+				}
+				api.on('open', function(event) {
+					event.api.setValue('custom', {
+							labels: ['tinklalapis', 'vu']
+					});
+				});
+		}
+		var script = document.createElement('script');
+		script.defer = 1;
+		script.src = 'https://widget.usersnap.com/load/4eb47c00-bc05-425c-9982-b2d92a01c98f?onload=onUsersnapCXLoad';
+		document.getElementsByTagName('head')[0].appendChild(script);
+
+		document.addEventListener('DOMSubtreeModified', () => {
+				let iframe = document.getElementsByName('us-entrypoint-buttonV2')[0]
+				if (iframe !== undefined) {
+						let doc = iframe.contentDocument;
+						if (doc.body.innerHTML.trim().length > 0 && doc.getElementById('mod') == null) {
+								doc.head.innerHTML += '<style id="mod">.container.container {font-size: 14px !important;}</style>';
+						}
+				}
+		});
+
+</script>
+
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TJKJR7K" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<APM_DO_NOT_TOUCH>
+
+<script type="text/javascript">
+(function(){
+window.RKt=!!window.RKt;try{(function(){(function(){var a={decrypt:function(d){try{return JSON.parse(function(g){g=g.split("l");var h="";for(var k=0;k<g.length;++k)h+=String.fromCharCode(g[k]);return h}(d))}catch(g){}}};return a={configuration:a.decrypt("123l34l97l99l116l105l118l101l34l58l34l110l111l34l44l34l100l101l98l117l103l103l105l110l103l34l58l34l110l111l34l44l34l109l111l100l117l108l101l49l34l58l34l101l110l97l98l108l101l100l34l44l34l109l111l100l117l108l101l50l34l58l34l101l110l97l98l108l101l100l34l44l34l109l111l100l117l108l101l51l34l58l34l101l110l97l98l108l101l100l34l44l34l109l111l100l117l108l101l52l34l58l34l101l110l97l98l108l101l100l34l125")}})();
+var b=81;try{var da,na,pa=c(688)?0:1,sa=c(882)?0:1,ta=c(609)?0:1,va=c(406)?1:0,xa=c(527)?1:0,ya=c(82)?1:0,Da=c(511)?1:0,Ea=c(740)?0:1,Fa=c(279)?1:0;for(var Ia=(c(598),0);Ia<na;++Ia)pa+=(c(415),2),sa+=(c(600),2),ta+=(c(518),2),va+=(c(514),2),xa+=(c(179),2),ya+=(c(344),2),Da+=c(202)?2:1,Ea+=c(582)?1:2,Fa+=c(773)?1:3;da=pa+sa+ta+va+xa+ya+Da+Ea+Fa;window.Qa===da&&(window.Qa=++da)}catch(a){window.Qa=da}var e=!0;function f(a,d){a+=d;return a.toString(36)}
+function Ja(a){var d=17;a&&(document[q(d,135,122,132,122,115,122,125,122,133,138,100,133,114,133,118)]&&document[t(d,135,122,132,122,115,122,125,122,133,138,100,133,114,133,118)]!==f(68616527649,d)||(e=!1));return e}function Ka(){}Ja(window[Ka[f(1086773,b)]]===Ka);Ja(typeof ie9rgb4!==t(b,183,198,191,180,197,186,192,191));Ja(RegExp("\x3c")[f(1372124,b)](function(){return"\x3c"})&!RegExp(q(b,201,132,181))[q(b,197,182,196,197)](function(){return"'x3'+'d';"}));
+var La=window[q(b,178,197,197,178,180,185,150,199,182,191,197)]||RegExp(t(b,190,192,179,186,205,178,191,181,195,192,186,181),f(-63,b))[f(1372124,b)](window["\x6e\x61vi\x67a\x74\x6f\x72"]["\x75\x73e\x72A\x67\x65\x6et"]),Ma=+new Date+(c(823)?740804:6E5),Ra,Sa,Ta,Va=window[q(b,196,182,197,165,186,190,182,192,198,197)],Wa=La?c(910)?16443:3E4:c(853)?5707:6E3;
+document[t(b,178,181,181,150,199,182,191,197,157,186,196,197,182,191,182,195)]&&document[q(b,178,181,181,150,199,182,191,197,157,186,196,197,182,191,182,195)](t(b,199,186,196,186,179,186,189,186,197,202,180,185,178,191,184,182),function(a){var d=32;document[q(d,150,137,147,137,130,137,140,137,148,153,115,148,129,148,133)]&&(document[q(d,150,137,147,137,130,137,140,137,148,153,115,148,129,148,133)]===f(1058781951,d)&&a[t(d,137,147,116,146,149,147,148,133,132)]?Ta=!0:document[q(d,150,137,147,137,130,
+137,140,137,148,153,115,148,129,148,133)]===q(d,150,137,147,137,130,140,133)&&(Ra=+new Date,Ta=!1,w()))});function q(a){var d=arguments.length,g=[];for(var h=1;h<d;++h)g.push(arguments[h]-a);return String.fromCharCode.apply(String,g)}function w(){if(!document[q(66,179,183,167,180,187,149,167,174,167,165,182,177,180)])return!0;var a=+new Date;if(a>Ma&&(c(247)?6E5:542408)>a-Ra)return Ja(!1);var d=Ja(Sa&&!Ta&&Ra+Wa<a);Ra=a;Sa||(Sa=!0,Va(function(){Sa=!1},c(562)?0:1));return d}w();
+var Ya=[c(798)?9765042:17795081,c(633)?2147483647:27611931586,c(553)?1558153217:1806132661];function t(a){var d=arguments.length,g=[];for(var h=1;h<d;h++)g[h-1]=arguments[h]-a;return String.fromCharCode.apply(String,g)}
+function Za(a){var d=9;a=typeof a===f(1743045667,d)?a:a[t(d,125,120,92,125,123,114,119,112)](c(886)?44:36);var g=window[a];if(!g||!g[q(d,125,120,92,125,123,114,119,112)])return;var h=""+g;window[a]=function(k,l){Sa=!1;return g(k,l)};window[a][t(d,125,120,92,125,123,114,119,112)]=function(){return h}}for(var Fa=(c(814),0);Fa<Ya[f(1294399124,b)];++Fa)Za(Ya[Fa]);Ja(!1!==window[q(b,163,156,197)]);window.Ga=window.Ga||{};window.Ga.Wb="089d7c38ec1940003e5918fd149a98fb6135de7b0416381e8440948d3994485dd86b39ad159afb57595c8e21f0d9e8c25817c1185198eb394ec7f597aa4958dbf1e7f3be9f528804";
+function B(a){var d=+new Date;if(!document[t(92,205,209,193,206,213,175,193,200,193,191,208,203,206,157,200,200)]||d>Ma&&(c(267)?6E5:345154)>d-Ra)var g=Ja(!1);else g=Ja(Sa&&!Ta&&Ra+Wa<d),Ra=d,Sa||(Sa=!0,Va(function(){Sa=!1},c(103)?1:0));return!(arguments[a]^g)}function c(a){return 562>a}(function ab(a){a&&"number"!==typeof a||("number"!==typeof a&&(a=1E3),a=Math.max(a,1),setInterval(function(){ab(a-10)},a))})(!0);})();}catch(x){}finally{ie9rgb4=void(0);};function ie9rgb4(a,b){return a>>b>>0};
+
+})();
+
+</script>
+</APM_DO_NOT_TOUCH>
+
+<script type="text/javascript" src="/TSPD/08d254ae74ab200068751cbc7119c1f1cceac0c160d30d663c9800807b754b4a13d83a28db377200?type=9"></script>
+</body>
+</html>

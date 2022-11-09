@@ -1,0 +1,27 @@
+
+Analysis of https://www.vu.lt/
+Sucessful calls:
+GET
+Response received in: 0.325078 seconds
+Content-Type is: text/html; charset=utf-8
+Check response and headers at: ./www.vu.lt_GET
+POST
+Response received in: 0.306002 seconds
+Content-Type is: text/html; charset=utf-8
+Check response and headers at: ./www.vu.lt_POST
+PUT
+Response received in: 0.050171 seconds
+Content-Type is: text/html; charset=utf-8
+Check response and headers at: ./www.vu.lt_PUT
+DELETE
+Response received in: 0.063417 seconds
+Content-Type is: text/html; charset=utf-8
+Check response and headers at: ./www.vu.lt_DELETE
+OPTIONS
+Response received in: 0.309803 seconds
+Content-Type is: text/html; charset=utf-8
+Check response and headers at: ./www.vu.lt_OPTIONS
+PATCH
+Response received in: 0.066576 seconds
+Content-Type is: text/html; charset=utf-8
+Check response and headers at: ./www.vu.lt_PATCH
