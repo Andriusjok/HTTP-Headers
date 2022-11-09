@@ -1,0 +1,23 @@
+
+Analysis of https://www.reddit.com/
+Sucessful calls:
+GET
+Response received in: 0.608025 seconds
+Content-Type is: text/html; charset=utf-8
+Check response and headers at: ./www.reddit.com_GET
+PUT
+Response received in: 0.228932 seconds
+Content-Type is: text/plain; charset=utf-8
+Check response and headers at: ./www.reddit.com_PUT
+DELETE
+Response received in: 0.339262 seconds
+Content-Type is: text/plain; charset=utf-8
+Check response and headers at: ./www.reddit.com_DELETE
+OPTIONS
+Response received in: 0.230753 seconds
+Content-Type is: text/plain; charset=utf-8
+Check response and headers at: ./www.reddit.com_OPTIONS
+PATCH
+Response received in: 0.231401 seconds
+Content-Type is: text/plain; charset=utf-8
+Check response and headers at: ./www.reddit.com_PATCH
